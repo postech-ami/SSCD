@@ -1,5 +1,4 @@
-# SSCD
-Self-Supervised Collaborative Distillation for Autonomous Driving
+# SSCD: Self-Supervised Collaborative Distillation for Autonomous Driving
 
 Authors: Wonjun Jo, Hyunwoo Ha, Kim Ji-Yeon, Hawook Jeong, and Tae-Hyun Oh
 
